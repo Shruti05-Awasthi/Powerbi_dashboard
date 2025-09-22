@@ -5,29 +5,9 @@ This repo contains my dashboards created while learning and practicing Data Anal
 
 ---
 
-## 📊 Project 1: Superstore Sales Dashboard
-- Dataset: Superstore Sales  
-- Features:
-  - KPIs for Sales, Profit, and Quantity  
-  - Regional and Category-wise analysis  
-  - Drill-down capability for detailed insights  
-  - Storytelling through visuals  
-
----
-
-## 🛠️ Tools & Technologies
-- Power BI Desktop  
-- DAX (Data Analysis Expressions)  
-- Data Modeling & Visualization  
-
----
-
-## 🚀 Learning Outcomes
-- Hands-on experience with KPIs and interactive dashboards  
-- Improved skills in data visualization & storytelling  
-- Practical knowledge of business data analysis  
-
----
+## 📊 Project 1: Superstore Sales Dashboard                                                                
+##   📊 Project 2: Sales , inventory and purchase dashboard
+##  📊 Project 3: Kalyan Agro Dairy Farm Report
 
 ## 🔗 Connect with Me
   [Linkedin] https://www.linkedin.com/in/shruti-awasthi-139b10206
@@ -35,4 +15,4 @@ This repo contains my dashboards created while learning and practicing Data Anal
 
 ---
 
-✨ More dashboards coming soon! Stay tuned.  
+✨ More projects coming soon! Stay tuned.  
