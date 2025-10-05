@@ -5,9 +5,12 @@ This repo contains my dashboards created while learning and practicing Data Anal
 
 ---
 
-## 📊 Project 1: Superstore Sales Dashboard                                                                
-##   📊 Project 2: Sales , inventory and purchase dashboard
-##  📊 Project 3: Kalyan Agro Dairy Farm Report
+## 📊 Project 1: Superstore Sales Analysis Report                                                                
+##   📊 Project 2: Sales , inventory and purchase Analysis Report
+##  📊 Project 3: Kalyan Agro Dairy Farm Report Analysis Report
+#### 📊 Project 4: Supply Chain Management Report Analysis Report                                                             
+
+
 
 ## 🔗 Connect with Me
   [Linkedin] https://www.linkedin.com/in/shruti-awasthi-139b10206
